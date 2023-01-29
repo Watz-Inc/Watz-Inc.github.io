@@ -16,8 +16,6 @@ nav_order: 1
 1. TOC
 {:toc}
 
-this is not cool whyyy???
-
 https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/
 
 https://just-the-docs.github.io/just-the-docs/docs/configuration/
