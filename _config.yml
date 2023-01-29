@@ -3,7 +3,7 @@ description: Watz documentation, metric hub and community space
 theme: just-the-docs
 
 url: https://Watz-Inc.github.io
-# baseurl: ""
+baseurl: "/Watz-Inc.github.io"
 
 aux_links:
   Join the discussion: https://github.com/Watz-Inc/discussions/categories/metrics
