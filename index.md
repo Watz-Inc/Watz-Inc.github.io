@@ -6,10 +6,7 @@ nav_order: 1
 
 [Link button](http://www.watz.coach/){: .btn .btn-purple }
 
-yoyooyy
-
-
-trying yoy oy
+now
 
 # Navigation Structure
 {: .no_toc }
