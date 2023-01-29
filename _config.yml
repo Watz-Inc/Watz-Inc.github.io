@@ -3,7 +3,7 @@ description: Watz documentation, metric hub and community space
 theme: just-the-docs
 
 url: https://Watz-Inc.github.io
-baseurl: ""
+# baseurl: ""
 
 aux_links:
   Join the discussion: https://github.com/Watz-Inc/discussions/categories/metrics
@@ -46,5 +46,5 @@ search:
 #     url: https://github.com/just-the-docs/just-the-docs
 #     hide_icon: false # set to true to hide the external link icon - defaults to false
 
-plugins:
-  - jekyll-default-layout
+# plugins:
+#   - jekyll-default-layout
