@@ -16,7 +16,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-this
+this is not cool
 
 https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/
 
