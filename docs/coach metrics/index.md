@@ -1,7 +1,8 @@
 ---
-title: Home
+title: Coach Metrics
 layout: home
-nav_order: 1
+# nav_order: 5
+has_children: true
 ---
 
 [Link button](http://www.watz.coach/){: .btn .btn-purple }
@@ -15,14 +16,6 @@ nav_order: 1
 
 1. TOC
 {:toc}
-
-
-
-https://github.blog/2022-01-13-how-five-open-source-communities-are-using-github-discussions/
-
-https://just-the-docs.github.io/just-the-docs/docs/configuration/
-
-
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
